@@ -14,6 +14,9 @@ buildNumber.properties
 *.jbl
 
 *.cpp
-*.sql
+w.sql
+
+k.sql
+
 
 `
