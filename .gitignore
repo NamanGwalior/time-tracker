@@ -9,15 +9,10 @@ buildNumber.properties
 .idea
 *.iml
 
-*.bb
 
-*.jbl
+*.sql
 
 *.cpp
-w.sql
-
-k.sql
 
 
-io.sql
-:wq!
+
